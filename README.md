@@ -6,3 +6,4 @@ only 1 commit came after merge not
 all changes removed ,added my changes , trying to remove merge conflict
 i am adding changes in main
 i am adding changes in main
+added in main again to check rebase
