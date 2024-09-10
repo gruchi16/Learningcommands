@@ -7,3 +7,5 @@ all changes removed ,added my changes , trying to remove merge conflict
 i am adding changes in main
 i am adding changes in main
 added in main again to check rebase
+ need to check diff command
+
